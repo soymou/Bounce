@@ -4,8 +4,8 @@
   (:gen-class))
 
 ;; Constants
-(def width 600)
-(def height 600)
+(def width 1920)
+(def height 1080)
 (def background 0)
 (def dt 0.05)
 (def gravity 9.81)
